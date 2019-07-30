@@ -33,3 +33,4 @@ if (divider <= 0) {
     document.body.appendChild (p3);
     document.body.appendChild (p4);}
       }
+//teste de push
