@@ -19,7 +19,8 @@ if (divider <= 0) {
     document.body.append (errormessage);
 } else { 
      if (divider >0) {
-    var x1 = parseFloat(a / (divider));
+    var x1 = (a / (divider));
+    console.log (x1.toFixed(2));
     p1.append ("Valor de venda =R$ " + x1);
     var x2 = tax;
     p2.append ("Valor dos impostos =R$ " + x2);
