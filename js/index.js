@@ -1,7 +1,4 @@
-// var a = valor da fábrica
-// var b = 28%
-// Var c = 45%
-// calcular o preço do veiculo
+//2) O custo ao consumidor de um carro novo é a soma do custo de fábrica com a percentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que a percentagem do distribuidor seja de 28% e os impostos de 45%, escrever um programa em Javascript que leia o custo de fábrica de um carro e escreva o custo ao consumidor.
 
 var a = parseInt (prompt("Digite aqui o valor do veiculo"));
 var b = parseInt (prompt("Digite aqui % de quanto quer ganhar"));
